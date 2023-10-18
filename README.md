@@ -1,4 +1,4 @@
-   <h3 align="center">Olá, sou o Thiago Tonelli 🌼<\h3>
+   <h3 align="center">Olá, sou o Thiago Tonelli 🌼</h3>
 
 <div align="center">
     <img height="170em" width="44.2%" src="https://github-readme-stats.vercel.app/api?username=thiagkk&show_icons=true&theme=vue-dark"/>  
