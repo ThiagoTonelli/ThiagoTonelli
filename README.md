@@ -1,4 +1,6 @@
 ### Olá, sou o Thiago Tonelli 🌼
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagkk&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&size_weight=0.5&count_weight=0.5&theme=vue-dark)
+<div align="center">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=thiagkk&show_icons=true&theme=vue-dark"/>  
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&size_weight=0.5&count_weight=0.5&theme=vue-dark"/>
+  </div>
