@@ -9,4 +9,6 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="html-5"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    <img width="48" height="48" src="https://icons8.com/icon/13441/python" alt="java-coffee-cup-logo--v1"/>
+    <img width="48" height="48" src="https://icons8.com/icon/f0R4xVI4Sc8O/php" alt="java-coffee-cup-logo--v1"/>
 </div>
